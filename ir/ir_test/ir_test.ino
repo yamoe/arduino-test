@@ -1,8 +1,8 @@
 #include <IRremoteModule.h>
 
-const int irReceiverPin = A3; //아날로그 포트에도 연결 가능.
-IRrecv irrecv(irReceiverPin); //create an IRrecv object
-decode_results decodedSignal; //stores results from IR sensor
+const int irReceiverPin = A3; // use analog port
+IRrecv irrecv(irReceiverPin);
+decode_results decodedSignal;
 
 void setup() {
   Serial.begin(9600);
@@ -59,12 +59,11 @@ void dump(decode_results* results) {
 }
 
 void loop() {
-  // this is true if a message has been received
   if (irrecv.decode(&decodedSignal) == true) {
     if (decodedSignal.bits > 0) {
       dump(&decodedSignal);
     }
-    irrecv.resume(); // watch out for another message
+    irrecv.resume();
   }
 
 }
