@@ -25,16 +25,6 @@ void setup() {
 }
 
 void loop() {
-  /*
-  for (int i=0; i<170; ++i) {
-    myservo.write(i);
-    delay(500);
-  }
-  for (int i=170; i<0; --i) {
-    myservo.write(i);
-    delay(500);
-  }
-  */
   Serial.println("right");
   myservo.write(85 - 40);
   delay(3000);

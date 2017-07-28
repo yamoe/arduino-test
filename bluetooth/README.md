@@ -1,14 +1,15 @@
 ﻿
 ## setting
 
-HC-06 블루투스 페어링 세팅
+HC-06 bluetooth pairing setting
 
-* AT : OK 응답 확인
-* AT+NAMExxxxx : xxxxx 블루투스 모듈 이름 설정
-* AT+PINxxxxx : xxxxx 숫자 암호 설정
+* AT : check response "OK"
+* AT+NAMExxxxx : set bluetooth module name "xxxxx"
+* AT+PINxxxxx : set number of password "xxxxx"
 
 
 ## smartcar-4wd
 
-적외선 리모컨 smart car 제어
+control smart car using bluetooth
+
   

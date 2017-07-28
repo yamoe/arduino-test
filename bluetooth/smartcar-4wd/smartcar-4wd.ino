@@ -27,8 +27,8 @@ SoftwareSerial btSerial(10, 11);  // RX, TX(UNO)
 ////////////////////////////////////////
 // Ultrasonic sensor
 ////////////////////////////////////////
-int TRIG_pin = 12;  // �꽱�꽌 Trig ��, D12
-int ECHO_pin = 13;  // �꽱�꽌 Echo ��, D13
+int TRIG_pin = 12; 
+int ECHO_pin = 13;
 
 #define blinkLED  8  // for crash warning
 
@@ -383,11 +383,11 @@ bool alert_Bump()
 {
   long duration, cm; 
   
-  digitalWrite(TRIG_pin, HIGH);             // �꽱�꽌�뿉 Trig �떊�샇 �엯�젰
-  delayMicroseconds(10);                    // 10us �젙�룄 �쑀吏� 
-  digitalWrite(TRIG_pin,LOW);               // Trig �떊�샇 off 
-  duration = pulseIn(ECHO_pin,HIGH);        // Echo pin: HIGH->Low 媛꾧꺽�쓣 痢≪젙
-  cm = microsecondsToCentimeters(duration); // 嫄곕━(cm)濡� 蹂��솚 
+  digitalWrite(TRIG_pin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_pin,LOW);
+  duration = pulseIn(ECHO_pin,HIGH);
+  cm = microsecondsToCentimeters(duration);
   
   if (cm < 20)
   {

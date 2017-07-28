@@ -1,5 +1,5 @@
 ﻿
 ## sweep
 
-초음파 센서 서브모터제어 테스트
+test ultrasonic sensor servo motor control
   
