@@ -1,7 +1,7 @@
 ﻿
-## ir_test
+## ir-test
 
-check IR remote control key dump 
+check IR(infrared ray) remote control key dump 
 
 
 ## smartcar-4wd
