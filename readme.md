@@ -1,10 +1,10 @@
 
-> ¾Ë¸®¹Ù¹Ù¿¡¼­ ±¸¸ÅÇÑ ¾ÆµÎÀÌ³ë ½º¸¶Æ® ·Îº¿ÀÌ
-¸Ş´º¾ó ¾øÀÌ ¿Í¼­ ºñ½ÁÇÑ Á¦Ç° ¸Ş´º¾ó ÂüÁ¶ÇÏ¿© ¾à°£ ¼Ò½º ¼öÁ¤
+> ì•Œë¦¬ë°”ë°”ì—ì„œ êµ¬ë§¤í•œ ì•„ë‘ì´ë…¸ smart car í•´ë³´ë ¤ê³  êµ­ë‚´ ë©”ë‰´ì–¼/ì†ŒìŠ¤ ì°¾ì•„ ì‚´ì§ ìˆ˜ì •í•˜ì—¬ í…ŒìŠ¤íŠ¸
 
-# Âü°í ÀÚ·á
-* ¾ÆµÎÀÌ³ë ½º¸¶Æ® ·Îº¿ 4WD ÀÚµ¿Â÷ Å°Æ® V2 ¸®¸ğÄÁ ¹öÁ¯ Arduino Robot Platform 4WD Chassiss Robotics Kit V2
+
+# ì°¸ê³  ìë£Œ
+* ì•„ë‘ì´ë…¸ ìŠ¤ë§ˆíŠ¸ ë¡œë´‡ 4WD ìë™ì°¨ í‚¤íŠ¸ V2 ë¦¬ëª¨ì»¨ ë²„ì ¼ Arduino Robot Platform 4WD Chassiss Robotics Kit V2
 http://www.gameplusedu.com/shop/goods/goods_view.php?goodsno=148
-* ¸Ş´º¾ó : http://www.gameplusedu.com/gpshop/4wd%20manual%20pdf.pdf
+* ë©”ë‰´ì–¼ : http://www.gameplusedu.com/gpshop/4wd%20manual%20pdf.pdf
 *  Arduino-IRremote-Module.zip
-IR ±âº» ¶óÀÌºê·¯¸® Ãæµ¹ ÇÇÇÏ±â À§ÇØ https://github.com/z3t0/Arduino-IRremote ¿¡¼­ Çì´õ¸í¸¸ º¯°æ
+IR ê¸°ë³¸ ë¼ì´ë¸ŒëŸ¬ë¦¬ ì¶©ëŒ í”¼í•˜ê¸° ìœ„í•´ https://github.com/z3t0/Arduino-IRremote ì—ì„œ í—¤ë”ëª…ë§Œ ë³€ê²½
