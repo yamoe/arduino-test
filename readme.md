@@ -13,7 +13,7 @@
 
 <img src="https://github.com/yamoe/arduino-test/raw/master/smart-car.jpg" width="200">
 
-![smart-car](smart-car.mp4)
+[![smart-car](smart-car.jpg)](smart-car.mp4)
  
 
 # test OV7670 camera module + arduino uno
