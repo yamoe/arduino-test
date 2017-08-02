@@ -11,10 +11,14 @@
 
   http://www.gameplusedu.com/gpshop/4wd%20manual%20pdf.pdf
 
-<img src="https://github.com/yamoe/arduino-test/raw/master/smart-car.jpg" width="200">
-<video id="video" controls="controls">
-  <source src="https://github.com/yamoe/arduino-test/raw/master/smart-car.mp4" type="video/mp4">
-</video>
+
+<table>
+<tr style="border-top:0px solid #c6cbd1">
+<td style="border:0px solid #dfe2e5"><img src="https://github.com/yamoe/arduino-test/raw/master/smart-car.jpg" height="320"></td>
+<td style="border:0px solid #dfe2e5"><img src="https://github.com/yamoe/arduino-test/raw/master/smart-car.gif" width="229"></td>
+</tr>
+</table>
+
 
 # test OV7670 camera module + arduino uno
 > OV7670
